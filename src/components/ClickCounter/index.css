@@ -1,0 +1,32 @@
+.counter-bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  font-family: 'Roboto';
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 30px;
+  color: #2d3a35;
+  text-align: center;
+}
+.paragraph {
+  color: #2d3a35;
+}
+.count {
+  color: #c20a72;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  height: 35px;
+  border-radius: 5px;
+  width: 90px;
+  outline: none;
+  cursor: pointer;
+  border-width: 0;
+}
